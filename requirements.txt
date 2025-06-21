@@ -1,0 +1,7 @@
+flask
+gdown
+opencv-python-headless
+numpy
+requests
+pytz
+apscheduler

@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: esp32cam-flask
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python yolo_server.py
