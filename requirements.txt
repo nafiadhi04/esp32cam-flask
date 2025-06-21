@@ -1,7 +1,9 @@
 flask
-gdown
-opencv-python-headless
+opencv-python
 numpy
+pillow
 requests
-pytz
+python-telegram-bot==20.7
 apscheduler
+gdown
+pytz
